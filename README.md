@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   
-  <img src="https://img.icons8.com/color/80/000000/data-encryption.png"/>
+  <img src="[https://img.icons8.com/color/80/000000/data-encryption.png](https://github.com/Kowshike/steganography/blob/main/images/home.PNG)"/>
   
   <h1 align="center">STEGANO</h1>
 
