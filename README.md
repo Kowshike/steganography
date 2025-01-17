@@ -21,10 +21,9 @@
 
 ## Features
 
-=> Supports image, audio, and video steganography
-=> Easy to use interface
-=> Secure password protection
-
+* Supports image, audio, and video steganography
+* Easy to use interface
+* Secure password protection
 
 
 ## Table of Contents
