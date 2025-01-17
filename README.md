@@ -9,11 +9,7 @@
 
   <p align="center">
     A Steganography Tool
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://drive.google.com/file/d/1hOWJVv_HxIVPX7SOtW9EZjpMvlLsj5ix/view?usp=sharing">View Demo</a>
+  
   </p>
 </p>
 
