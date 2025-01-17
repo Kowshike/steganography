@@ -5,12 +5,13 @@
   
   <img src="https://img.icons8.com/color/80/000000/data-encryption.png"/>
   
-  <h1 align="center">Stega</h1>
+  <h1 align="center">STEGANO</h1>
 
   <p align="center">
     A Steganography Tool
   
   </p>
+  <p>Steganography is the art of hiding secret messages within ordinary, non-secret files. Stegano is a Python-based tool that allows you to hide messages in images, audio, and video files.</p>
 </p>
 
 
@@ -18,7 +19,12 @@
   <img src="https://github.com/ADI-KOTKAR/Stega/blob/master/images/home.PNG">
 </p>
 
-<!-- TABLE OF CONTENTS -->
+## Features
+
+=> Supports image, audio, and video steganography
+=> Easy to use interface
+=> Secure password protection
+
 
 
 ## Table of Contents
@@ -106,6 +112,8 @@ pip install Flask opencv-python stepic wave stegano
 
 If you have made it so far then you are genius enough to configure and build this application yourself. :clap: 
 
+#### Disclaimer
+Steganography can be used for malicious purposes. Please use this tool responsibly.
 #### Running Application
 Make sure environment is activated, Now run:
 ```
